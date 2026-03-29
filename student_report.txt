@@ -1,0 +1,23 @@
+Students Grade Report - 2026-03-29
+___________________________________
+
+Name | Percentage | Grade | Result 
+Karan | 90.0		| A | Pass
+Preet | 88.5		| B | Pass
+Kirti | 88.5		| B | Pass
+Kiran | 88.25		| B | Pass
+Manish | 88.0		| B | Pass
+Sneha | 87.25		| B | Pass
+Virat | 83.5		| C | Pass
+Rohit | 6.25		| F | Fail
+
+___________________________________
+
+
+Class Pass Rate : 87.5
+
+Topper Name : Karan
+
+Highest Scoring Subject of Class with Average :('Social Studies', 79.0)
+
+Lowest Scoring Subject of Class with Average :('English', 78.25)
